@@ -10,6 +10,11 @@
 | `rabbitmq:3.10-management`     | `sirajul/rabbitmq:3.10-management-latest`   |   `5672`, `15672`   |
 | `rabbitmq:3.11-management`     | `sirajul/rabbitmq:3.11-management-latest`   |   `5672`, `15672`   |
 
+## Enabled Plugins
+
+- `rabbitmq_delayed_message_exchange`
+- `rabbitmq_management`
+
 ## Management login credentials
 
 - Username: `guest`
