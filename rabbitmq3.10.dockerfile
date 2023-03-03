@@ -1,3 +1,4 @@
+# syntax = edrevo/dockerfile-plus
 FROM rabbitmq:3.10-management
 
 # Delayed message exchange
